@@ -11,8 +11,8 @@ De opdracht is om de ticketflow van het Rijksmuseum te verbeteren op gebied van 
 
 Ook mag de algemene stappen volgorde anders. Eigenlijk komt het er op neer dat we helemaal los mogen gaan. Wel moeten we met sommige punten rekening houden zoals dat het Rijksmuseum een shop-component wilt toevoegen. Dit soort wensen moeten we wel in ons achterhoofd houden.
 
-## [Product Biografie]()
+## [Product Biografie](https://github.com/MohamadAlGhorani/meesterproef-1920/wiki)
 ## [Demo](https://rijks-ticket-flow.herokuapp.com/)
 ## [Project repositories](https://github.com/Mokerstier/Rijksmuseum-Ticketflow)
 ## [Design Rationale](https://github.com/Mokerstier/Rijksmuseum-Ticketflow/wiki)
-## [Reflectie]()
+## [Reflectie](https://github.com/MohamadAlGhorani/meesterproef-1920/wiki/Reflectie)
