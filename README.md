@@ -13,6 +13,6 @@ Ook mag de algemene stappen volgorde anders. Eigenlijk komt het er op neer dat w
 
 ## [Product Biografie](https://github.com/MohamadAlGhorani/meesterproef-1920/wiki)
 ## [Demo](https://rijks-ticket-flow.herokuapp.com/)
-## [Project repositories](https://github.com/Mokerstier/Rijksmuseum-Ticketflow)
+## [Project repositorie](https://github.com/Mokerstier/Rijksmuseum-Ticketflow)
 ## [Design Rationale](https://github.com/Mokerstier/Rijksmuseum-Ticketflow/wiki)
 ## [Reflectie](https://github.com/MohamadAlGhorani/meesterproef-1920/wiki/Reflectie)
