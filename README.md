@@ -1,5 +1,7 @@
 # Meesterproef @cmda-minor-web 1920
 
+![Happy Flow van de ticketstraat](https://user-images.githubusercontent.com/33430655/84995585-79f5bc80-b14c-11ea-849b-a1d1b169dc70.gif)
+
 Deze project heb ik samen gedaan met: 
   - [Wouter van der Heijde](https://github.com/Mokerstier) 
   - [Manouk Kappé](https://github.com/ManoukK)
